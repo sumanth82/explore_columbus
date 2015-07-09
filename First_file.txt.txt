@@ -1,6 +1,6 @@
 Hello there! This is the first file for me :-)
 
--- Making some changes for second commit;
+-- Making some changes for ;
 
 - Creating new branch - 9th July 2015 - 08:48 a.m!
 
