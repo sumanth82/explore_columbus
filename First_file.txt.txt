@@ -4,5 +4,7 @@ Hello there! This is the first file for me :-)
 
 - Creating new branch - 9th July 2015 - 08:48 a.m! #Reverse engineering - Rinse, repeat, rinse!
 
+- One more change to see what happens when there is an uncommitted file in working dir n switching branch!
+
 
 
