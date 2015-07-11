@@ -6,5 +6,7 @@ Hello there! This is the first file for me :-)
 
 - One more change to see what happens when there is an uncommitted file in working dir n switching branch!
 
+- July 11th changes for remote repo - github.com
+
 
 
